@@ -1,2 +1,3 @@
-# Stock Prediction Simulator
-
+<div align ="center">
+  #Stock Prediction Simulator
+</div>
