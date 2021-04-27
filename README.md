@@ -1,1 +1,2 @@
-# Stock-Prediction-Simulator
+# Stock Prediction Simulator
+
